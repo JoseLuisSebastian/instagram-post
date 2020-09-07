@@ -1,0 +1,88 @@
+container {
+background-color: black;
+}
+
+.header {
+width: 500px;
+height: 90px;
+margin-left: 200px;
+background-color: white; 
+}
+
+body {
+font-family: 'Dancing Script', cursive;
+}
+.iconoHtml5 {
+float: left;
+}
+
+.nameHtml5 {
+float: left;
+}
+
+.tresPuntos {
+float: right;
+}
+
+.photo {
+width: 500px;
+margin-left: 200px;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-left: 0px;
+padding-top: 0px;
+}
+
+.photo>img {
+height: auto;
+width: auto;
+max-height: 500px;
+max-width: 500px;
+}
+
+.iconos {
+width: 500px;
+height: 60px;
+margin-left: 200px;
+background-color: white;
+}
+
+.iconoCorazon {
+float: left;
+margin-left: 4px;
+margin-right: 4px;
+}
+
+.iconoChat {
+float: left;
+margin-right: 4px;
+}
+
+.iconoEnviar {
+float: left;
+}
+
+.iconoArchivar {
+float: right;
+}
+
+p {
+margin: 0px;
+margin-left: 4px;
+}
+
+.foot {
+width: 500px;
+height: 100px;
+margin-left: 200px;
+background-color: white;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+img {
+height: auto;
+width: auto;
+max-height: 40px;
+max-width: 40px;
+}
